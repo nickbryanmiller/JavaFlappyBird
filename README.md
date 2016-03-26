@@ -4,8 +4,6 @@
 
 Time spent: **4** hours spent in total
 
-## User Stories
-
 ## Video Walkthrough 
 
 Here's a walkthrough of the game:
